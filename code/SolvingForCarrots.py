@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/carrots
 #input format
 n,p = input().split()
 #conversion to integer

@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/batterup
 #input format
 n= int(input())]
 #splits another input by spaces

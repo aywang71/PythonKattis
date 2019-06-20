@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/planina
 #input format
 n = int(input())
 #can't calculate for the first iteration: if loop

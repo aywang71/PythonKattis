@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/speedlimit
 #this is the array for the final output
 distance_array = []
 # you can have a total of 10 data sets

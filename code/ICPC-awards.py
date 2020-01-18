@@ -1,3 +1,5 @@
+#https://open.kattis.com/problems/icpcawards
+
 #input for amount of teams
 n = int(input())
 #storage values

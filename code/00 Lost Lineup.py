@@ -1,16 +1,14 @@
 #https://open.kattis.com/problems/lostlineup
 n = int(input())
-output = [1]
+output = ['1']
 count = 0
-for i in range (n):
-  positions = [int(i) for i in input().split(' ')]
-print('positions:',positions)
+positions = input().split(' ')
+#print('positions:',positions)
 
 for i in positions:
-  temp = positions.index(count) + 1
-  output.append(temp)
+  output.append(str(positions.index(str(count)) + 2))
   count += 1
-
+#print('out:',output)
 print(' '.join(output))
 
 

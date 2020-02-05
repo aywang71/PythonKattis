@@ -1,2 +1,2 @@
 language="python"
-run="python code/00 Avion.py"
+run="python code\s00 Avion.py"

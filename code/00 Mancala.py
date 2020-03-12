@@ -37,9 +37,6 @@ def find (balls):
   while count != balls:
     
 
-
-
-
 for i in range (int(input())):
   case, balls = input().split(' ')
   balls = int(balls)

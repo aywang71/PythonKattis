@@ -1,3 +1,5 @@
+#https://open.kattis.com/problems/softpasswords
+
 def reverse(entered):
   temp = ''
   for i in entered:

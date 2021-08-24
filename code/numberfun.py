@@ -1,3 +1,5 @@
+#https://open.kattis.com/problems/numberfun
+
 #iteration inputs
 n= int(input())
 for i in range (0,n):

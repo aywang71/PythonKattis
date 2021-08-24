@@ -1,3 +1,5 @@
+#https://open.kattis.com/problems/moscowdream
+
 #input
 problems = [int(i) for i in input().split(' ')]
 #boolean for rule testing

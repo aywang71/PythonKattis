@@ -1,3 +1,5 @@
+#https://open.kattis.com/problems/princesspeach
+
 #inputs for obstacles and encounters 
 obstacles, encounters = input().split(' ')
 #obstacles to integer

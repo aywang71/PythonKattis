@@ -1,3 +1,5 @@
+#https://open.kattis.com/problems/humancannonball2
+
 #imports math
 import math
 #input format of n

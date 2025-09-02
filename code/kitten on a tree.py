@@ -1,4 +1,4 @@
-#https://open.kattis.com/problems/kitten
+# https://open.kattis.com/problems/kitten
 
 #input for beginning position
 start = int(input())
